@@ -1,7 +1,7 @@
 # 🛡️ OGHYANOS VPN
 
 <p align="center">
-  <img src="path/to/your/logo.png" alt="OGHYANOS VPN Logo" width="150" height="150">
+  <img src="src/assets/logo.png" alt="OGHYANOS VPN Logo" width="150" height="150">
 </p>
 
 <p align="center">
