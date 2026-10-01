@@ -53,7 +53,7 @@ Installing OGHYANOS VPN is quick and simple. Follow these steps:
 1.  **Download the Latest Release:**
     Go to the official releases page and download the latest setup file:
     
-    **[➡️ Download Latest Version](https://github.com/Oghyanos-App/Oghyanos-App/releases)**
+    **[➡️ Download Latest Version](https://github.com/tuapod/Oghyanos-App/releases)**
 
 2.  **Run the Installer:**
     Locate the downloaded `.exe` setup file and double-click it to run the installer.
